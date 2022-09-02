@@ -1,0 +1,3 @@
+displayName = Scientific Railgun
+author = Astru43
+version = 0.1
